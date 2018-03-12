@@ -13,4 +13,3 @@ miktex portable
 texstudio portable
 * version:    2.12.6
 * download:   https://sourceforge.net/projects/texstudio/?source=typ_redirect
-
