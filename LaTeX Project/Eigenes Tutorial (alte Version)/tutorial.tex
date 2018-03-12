@@ -1,0 +1,165 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{listings} %für Listings (Quellcode)
+\usepackage{xcolor} %für farbigen Quellcode (Codehighlighting)
+\usepackage{hyperref} %Für Hyperlinks
+
+
+\newcommand{\zb}{z.\,B. } % \zb wird nun mit z. B. ersetzt
+
+\author{René Trampenau}
+\numberwithin{equation}{section}
+
+\begin{document}
+
+\section{Matrizen}
+
+
+\subsection{Ohne Klammern}
+\begin{equation}
+	\begin{matrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3 \\ c_1 & c_2 & c_3 \end{matrix}
+\end{equation}
+
+\subsection{Runde Klammern}
+\begin{equation}
+	\begin{pmatrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3 \\ c_1 & c_2 & c_3 \end{pmatrix}
+\end{equation}
+
+\subsection{Eckige Klammern}
+\begin{equation}
+	\begin{bmatrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3 \\ c_1 & c_2 & c_3 \end{bmatrix}
+\end{equation}
+
+\subsection{Geschweifte Klammern}
+\begin{equation}
+	\begin{Bmatrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3 \\ c_1 & c_2 & c_3 \end{Bmatrix}
+\end{equation}
+
+\subsection{Betragsstriche}
+\begin{equation}
+	\begin{vmatrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3 \\ c_1 & c_2 & c_3 \end{vmatrix}
+\end{equation}
+
+\subsection{Doppelte Betragsstriche (Norm)}
+\begin{equation}
+	\begin{Vmatrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3 \\ c_1 & c_2 & c_3 \end{Vmatrix}
+\end{equation}
+
+\newpage
+
+\section{Matlab Quellcode}
+
+\subsection{Was wird benötigt}
+Für Listings (Quellcode-Fenster) benötigt man lediglich das Package:\\
+\begin{lstlisting}
+\usepackage{listings}
+\end{lstlisting}
+Möchte man den Quellcode einfärben, benötigt man zusätzlich:\\
+\begin{lstlisting}
+\usepackage{color}
+\end{lstlisting}
+
+
+\subsection{Direkt in Latex}
+\begin{lstlisting}
+a = 1;
+b = 2;
+c = a + b;
+\end{lstlisting}
+
+\lstset{language = matlab, breaklines=true}
+\subsection{Aus einer Datei}
+\lstinputlisting{optimizer_v01.m}
+
+
+\subsection{Quellcode im Fließtext}
+Quellcode kann auch mitten im Fließtext eingebettet werden, wie \zb  hier: \lstinline|print "hello world"|.
+
+\subsection{Mit Zeilennummern}
+%Abstand zwischen Code und Zeilennummer ändern: numbersep=5pt 
+\lstset{numbers=left, numberstyle=\tiny, numbersep=5pt} 
+\lstset{language=Matlab}
+\begin{lstlisting}
+a = 1;
+b = 2;
+c = a + b;
+\end{lstlisting}
+
+\subsection{Mit Kasten}
+\lstset{frame = single}
+\begin{lstlisting}
+a = 1;
+b = 2.5;
+c = a + b;
+ceil(c);
+\end{lstlisting}
+
+\subsection{Mit Farben}
+
+\definecolor{mygreen}{rgb}{0,0.5,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+\definecolor{myyellow}{rgb}{1,1,0.88}
+\definecolor{colString}{RGB}{160,32,240}
+
+\lstset{
+commentstyle=\color{mygreen},    % comment style
+keywordstyle=\color{blue},       % keyword style
+numberstyle=\tiny\color{mygray}, % the style that is used for the line-numbers
+stringstyle={\color{colString}},%
+backgroundcolor=\color{myyellow},   % choose the background color; you must add 
+}
+\lstset{language=Matlab, frame = single}
+\begin{lstlisting}
+a = 1;
+b = 2.5;
+c = a + b;
+ceil(c)
+\end{lstlisting}
+
+\subsection{Mit anderen Zeilennummern}
+
+\lstset{firstnumber=23}
+\begin{lstlisting}
+a = 1;
+b = 2.5;
+c = a + b;
+ceil(c)
+\end{lstlisting}
+
+\subsection{Kleinere Schriftart}
+\lstset{basicstyle=\ttfamily\scriptsize}
+\begin{lstlisting}
+a = 1;
+b = 2.5;
+c = a + b;
+ceil(c)
+\end{lstlisting}
+
+\subsection{Nochmal alles zusammen}
+\lstset{firstnumber=59}
+\lstinputlisting{optimizer_v01.m}
+
+\subsection{Und nochmal Quellcode im Fließtext}
+Jetzt sieht auch der Quellcode im Fließtext anders aus, \zb  hier: \lstinline|print "hello world"|.
+
+\subsection{Quellen}
+\begin{list}{-}{}
+	\item Allgemein: \url{http://wiki.infostudium.de/wiki/Quelltext_in_LaTeX}
+	\item Andere Zeilennummern: \url{http://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings}
+\end{list}
+
+
+\section{Grafiken}
+\subsection{Simulink}
+
+
+
+
+
+\end{document}

@@ -1,0 +1,230 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.7)  8 JUL 2014 10:50
+entering extended mode
+**beispiel04.tex
+("C:\Users\woxtrr0\Desktop\LaTeX Project\Projektordner\beispiel04.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\base\size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\babel\babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\00miktex\bblopts.cfg
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\babel\ngermanb.ldf
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\babel\babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 92.
+))
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\base\inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\base\ansinew.def
+File: ansinew.def 2008/03/30 v1.1d Input encoding file
+))
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\infwarerr.s
+ty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\oberdiek\epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\oberdiek\epstopdf-base
+.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\kvdefinekey
+s.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\kvsetkeys.s
+ty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\etexcmds.st
+y
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\ifluatex.st
+y
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\pdftexcmds.
+sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+)) ("C:\Users\woxtrr0\Desktop\LaTeX Project\Projektordner\beispiel04.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(C:\Users\woxtrr0\Desktop\LaTeX\MikTexPortable\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen106
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen107
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+) ("C:\Users\woxtrr0\Desktop\LaTeX Project\Projektordner\beispiel04.lof"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@lof=\write3
+
+[1
+
+{C:/Users/woxtrr0/Desktop/LaTeX/MikTexPortable/pdftex/config/pdftex.map}]
+Package epstopdf Info: Source file: <simmodel.eps>
+(epstopdf)                    date: 2014-07-08 10:38:58
+(epstopdf)                    size: 8862655 bytes
+(epstopdf)             Output file: <simmodel-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=simmodel-eps-converted-to.p
+df simmodel.eps>
+(epstopdf)             \includegraphics on input line 27.
+runsystem(epstopdf --outfile=simmodel-eps-converted-to.pdf simmodel.eps)...exec
+uted (allowed).
+
+Package epstopdf Info: Result file: <simmodel-eps-converted-to.pdf>.
+
+
+! Package pdftex.def Error: File `simmodel-eps-converted-to.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 	\includegraphics{simmodel.eps}
+                                    
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[2] [3] ("C:\Users\woxtrr0\Desktop\LaTeX Project\Projektordner\beispiel04.aux")
+ ) 
+Here is how much of TeX's memory you used:
+ 1890 strings out of 493921
+ 27880 string characters out of 3133993
+ 80319 words of memory out of 3000000
+ 5169 multiletter control sequences out of 15000+200000
+ 7152 words of font info for 26 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,5n,24p,320b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/woxtrr0/Desktop/LaTeX/MikTexPortable/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/woxtrr0/Desktop/LaTeX/MikTexPortable/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Users/woxtrr0/Desktop/LaTeX/MikTexPortable/fonts/type1
+/public/amsfonts/cm/cmtt10.pfb>
+Output written on beispiel04.pdf (3 pages, 43013 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

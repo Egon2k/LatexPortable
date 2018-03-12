@@ -1,0 +1,12 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Struktur}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Illustrationen}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Bilder}{1}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Tabellen}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Formeln}{2}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Quellcode}{3}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Text}{3}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Weiterf\IeC {\"u}hrendes}{4}{subsection.1.3.1}
+\contentsline {chapter}{\numberline {A}Quelltexte}{5}{appendix.A}
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{7}{appendix*.2}
